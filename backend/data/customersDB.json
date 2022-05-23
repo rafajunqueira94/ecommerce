@@ -1,6 +1,5 @@
 {
     "1": {
-        "_id": "626c84b52df7984961e3e8c9",
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "name": "Mcdowell Crawford",
@@ -13,7 +12,6 @@
         "registered": "2017-12-25T05:58:20 +02:00"
     },
     "2": {
-        "_id": "626c84b5daebd0066b36c61f",
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "name": "Merritt Solomon",
@@ -26,7 +24,6 @@
         "registered": "2020-10-05T12:19:22 +03:00"
     },
     "3": {
-        "_id": "626c84b59ab1a0d772e690e2",
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "name": "Tanya Freeman",
@@ -39,7 +36,6 @@
         "registered": "2020-05-28T03:17:46 +03:00"
     },
     "4": {
-        "_id": "626c84b5e2593a4c189da346",
         "isActive": false,
         "picture": "http://placehold.it/32x32",
         "name": "Wood Bullock",
@@ -52,7 +48,6 @@
         "registered": "2021-10-24T03:57:38 +03:00"
     },
     "5": {
-        "_id": "626c84b579368818e875ac95",
         "isActive": true,
         "picture": "http://placehold.it/32x32",
         "name": "Ellen Harrison",

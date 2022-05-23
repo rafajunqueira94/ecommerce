@@ -11,10 +11,16 @@ con.on("open", () => {
   console.log("Conectado....");
 });
 
-app.use(express.json())
+app.use(express.json());
 
-const userRouter = require('./routes/users');
+const userRouter = require("./routes/users");
 app.use("/users", userRouter);
+
+const productRouter = require("./routes/products");
+app.use("/products", productRouter);
+
+const customerRouter = require("./routes/customers");
+app.use("/customers", customerRouter);
 
 app.listen(3000, () => {
   console.log("Server iniciado....");

@@ -7,7 +7,7 @@ router.get("/", async (req, res) => {
     const users = await User.find();
     res.json(users);
   } catch (err) {
-    res.send("Error get" + err);
+    res.send("Error get " + err);
   }
 });
 
@@ -16,7 +16,7 @@ router.get("/:id", async (req, res) => {
     const user = await User.findById(req.params.id);
     res.json(user);
   } catch (err) {
-    res.send("Error get" + err);
+    res.send("Error get users " + err);
   }
 });
 
@@ -35,7 +35,7 @@ router.post("/", async (req, res) => {
     const a1 = await user.save();
     res.json(a1);
   } catch (err) {
-    res.send("Error post" + err);
+    res.send("Error post users " + err);
   }
 });
 
@@ -44,20 +44,19 @@ router.delete("/:id", async (req, res) => {
     const user = await User.findByIdAndRemove(req.params.id);
     res.json(user);
   } catch (err) {
-    res.send("Error delete " + err + " ID = " + req.params.id);
+    res.send("Error delete user " + err + " ID = " + req.params.id);
   }
 });
 
 router.put("/:id", async (req, res) => {
   try {
-    const user = await User.findByIdAndUpdate(
-      req.params.id,
-      { $set: req.body },
-    );
+    const user = await User.findByIdAndUpdate(req.params.id, {
+      $set: req.body,
+    });
     res.json(user);
   } catch (err) {
     console.log(err);
-    res.send(`Server error on update user`);
+    res.send(`Error update user ${err}`);
   }
 });
 

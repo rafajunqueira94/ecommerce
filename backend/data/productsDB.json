@@ -1,10 +1,10 @@
 {
   "1": {
-    "_id": "1628a492b6af3c660e76fd172",
     "img": "https://i.ibb.co/cQpgQm3/img1.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 10.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -13,11 +13,11 @@
     "ratingCount": 33
   },
   "2": {
-    "_id": "628a492b6af3c660e76fd173",
     "img": "https://i.ibb.co/gtmSZZ5/img2.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 10.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -26,11 +26,11 @@
     "ratingCount": 33
   },
   "3": {
-    "_id": "628a492b6af3c660e76fd174",
     "img": "https://i.ibb.co/1zCMp20/img3.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 10.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -39,11 +39,11 @@
     "ratingCount": 33
   },
   "4": {
-    "_id": "628a492b6af3c660e76fd175",
     "img": "https://i.ibb.co/37dHSMR/img4.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 12.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -52,11 +52,11 @@
     "ratingCount": 33
   },
   "5": {
-    "_id": "628a492b6af3c660e76fd176",
     "img": "https://i.ibb.co/b1tSDX1/img5.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 15.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -65,11 +65,11 @@
     "ratingCount": 33
   },
   "6": {
-    "_id": "628a492b6af3c660e76fd177",
     "img": "https://i.ibb.co/S7rd3cB/img6.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 6.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -78,11 +78,11 @@
     "ratingCount": 33
   },
   "7": {
-    "_id": "628a492b6af3c660e76fd178",
     "img": "https://i.ibb.co/5LJmNsQ/img7.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 108.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -91,11 +91,11 @@
     "ratingCount": 33
   },
   "8": {
-    "_id": "628a492b6af3c660e76fd179",
     "img": "https://i.ibb.co/p2kB2HB/img8.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 45.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -104,11 +104,11 @@
     "ratingCount": 33
   },
   "9": {
-    "_id": "628a492b6af3c660e76fd17a",
     "img": "https://i.ibb.co/Gkvg1Px/img9.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 135.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -117,11 +117,11 @@
     "ratingCount": 33
   },
   "10": {
-    "_id": "628a492b6af3c660e76fd17b",
     "img": "https://i.ibb.co/cNfM87X/img10.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 14.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -130,11 +130,11 @@
     "ratingCount": 33
   },
   "11": {
-    "_id": "628a492b6af3c660e76fd17c",
     "img": "https://i.ibb.co/TrCDwHq/11.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 25.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -143,11 +143,11 @@
     "ratingCount": 33
   },
   "12": {
-    "_id": "628a492b6af3c660e76fd17d",
     "img": "https://i.ibb.co/qsgTNTN/12.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 10.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -156,11 +156,11 @@
     "ratingCount": 33
   },
   "13": {
-    "_id": "628a492b6af3c660e76fd17e",
     "img": "https://i.ibb.co/V9gQ3wC/13.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 8.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -169,11 +169,11 @@
     "ratingCount": 33
   },
   "14": {
-    "_id": "628a492b6af3c660e76fd17f",
     "img": "https://i.ibb.co/1JM1vGR/9.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 35.9,
     "rating": 3.5,
     "hasDiscount": 0,
@@ -182,11 +182,11 @@
     "ratingCount": 33
   },
   "15": {
-    "_id": "628a492b6af3c660e76fd180",
     "img": "https://i.ibb.co/F6BDk9n/10.jpg",
     "name1": "Lorem aliqua cillum eiusmod.",
     "name2": "Reprehenderit labore laborum nostrud elit velit et pariatur occaecat ut.",
     "description": "Eiusmod esse labore aliqua cupidatat commodo deserunt esse anim voluptate. Incididunt esse mollit aute ad. Sint ipsum qui incididunt adipisicing anim consequat ullamco exercitation pariatur dolor do incididunt dolor nisi. Consequat ad culpa ut nisi deserunt do aute cupidatat occaecat esse. Adipisicing nisi adipisicing aliqua commodo laborum id voluptate nostrud in aliquip dolore adipisicing. Ipsum qui qui mollit tempor anim sit tempor laborum commodo aliquip cillum nulla.",
+    "type": "promo",
     "price1": 49.9,
     "rating": 3.5,
     "hasDiscount": 0,

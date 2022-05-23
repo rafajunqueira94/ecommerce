@@ -1,6 +1,5 @@
 {
   "barret": {
-    "_id": "626c860912379c54d1eec166",
     "login": "barret",
     "name": "Barrett Vincent",
     "gender": "male",
@@ -10,7 +9,6 @@
     "registered": "2019-06-18 T03:27:51 +03:00"
   },
   "fulton": {
-    "_id": "626c86091627d14f4fc06051",
     "login": "fulton",
     "name": "Fulton Hodges",
     "gender": "male",
@@ -20,7 +18,6 @@
     "registered": "2017-07-05T11:28:50 +03:00"
   },
   "harrington": {
-    "_id": "626c8609c6035069dbc071ea",
     "login": "harrington",
     "name": "Harrington Hendricks",
     "gender": "male",
@@ -30,7 +27,6 @@
     "registered": "2019-02-19T10:00:51 +03:00"
   },
   "araceli": {
-    "_id": "626c8609febf5d8a278744d9",
     "login": "araceli",
     "name": "Araceli Greene",
     "gender": "female",
@@ -40,7 +36,6 @@
     "registered": "2017-07-23T09:09:40 +03:00"
   },
   "delgado": {
-    "_id": "626c86098aeeb03972022752",
     "login": "delgado",
     "name": "Delgado Cervantes",
     "gender": "male",
