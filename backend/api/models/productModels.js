@@ -5,10 +5,10 @@ const productSchema = new mongoose.Schema({
   name1: String,
   name2: String,
   description: String,
-  type: { type: String, enum: ["promo", "trending"] },
+  type: { type: String, enu: ["promo", "trending"] },
   price1: {
     type: Number,
-    min: [0.05, "Preços de 0.05 - 999999"],
+    min: [1, "Preços de 0.05 - 999999"],
     max: [999999, "Preços de 0.05 - 999999"],
   },
   rating: {
@@ -22,9 +22,7 @@ const productSchema = new mongoose.Schema({
     max: [90, "Descontos de 0-90%"],
   },
   category: String,
-  stockCount: {
-    type: Number,
-  },
+  stockCount: Number,
   ratingCount: Number,
 });
 

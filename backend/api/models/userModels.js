@@ -11,11 +11,13 @@ const userSchema = new mongoose.Schema({
   },
   gender: {
     type: String,
+    enum: ["Masculino", "Feminino", "Outro"],
     required: true,
   },
   email: {
     type: String,
     required: true,
+    unique: true,
   },
   phone: {
     type: String,
@@ -24,12 +26,9 @@ const userSchema = new mongoose.Schema({
   password: {
     type: String,
     required: true,
+    unique: true,
   },
-  registered: {
-    type: Date,
-    required: true,
-    default: Date.now,
-  },
+  registered: { type: Date, default: Date.now },
 });
 
 module.exports = mongoose.model("User", userSchema);
